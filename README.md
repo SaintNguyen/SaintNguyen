@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saintnguyen&label=Profile%20views&color=0e75b6&style=flat" alt="saintnguyen" /> </p>
 
-- 🔭 I am currently an employee at **Data Entry Owl Company**
+- 🔭 I'm currently an employee at **Data Entry Owl Company**
 
 - 🌱 I’m currently learning **React, SQL and Bootstrap**
 
