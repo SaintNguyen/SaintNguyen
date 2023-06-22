@@ -1,3 +1,4 @@
+![logo](https://i.pinimg.com/originals/16/1f/c1/161fc1173ab9f9c80eb3a6bf04751ac5.jpg)
 <h1 align="center">Hi 👋, I'm Nguyen Xuan Huu</h1>
 <h3 align="center">3rd Year Student Majoring In Software And Application Engineering</h3>
 
